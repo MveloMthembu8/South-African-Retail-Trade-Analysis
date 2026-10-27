@@ -84,7 +84,7 @@ The Power BI dashboard includes:
 
 • A year-on-year growth KPI that responds to the selected period.
 
-
+![South African Retail Trade Analysis Dashboard](screenshots/retail_dashboard.png)
 
 **Data Quality**
 
